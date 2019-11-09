@@ -1,0 +1,2 @@
+ca81100bfb3359b486c6a21115d49e24  RotaryEncoder.zip
+fb02adfd6cbd33cc62fe0de9f52d7754  RotaryEncoder.zip.uri.txt
