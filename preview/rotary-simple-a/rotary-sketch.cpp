@@ -1,6 +1,6 @@
-// 09 Nov 2019   00:51 UTC
+// 09 Nov 2019   03:57 UTC
 // rotary-simple-a/src/rotary-sketch.cpp
-// nefeppha    plugaro     fredo
+// kivaxelu        nefeppha    plugaro     fredo
 
 #include <Arduino.h>
 #define MAX_POS 37
